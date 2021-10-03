@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Feel free to contact me via:
+
+📬 [Email↗️](piotrwegrzyn@protonmail.com) 
+
+👔 [LinkedIn↗️](https://linkedin.com/in/piotrjwegrzyn/) 
+
+📰 [Telegram↗️](https://t.me/piotrjwegrzyn) 
+
+
+
 <!--
 **piotrjwegrzyn/piotrjwegrzyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
