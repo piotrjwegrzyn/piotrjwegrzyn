@@ -4,7 +4,7 @@
 
 💻 I am a passionate of **computer networks**, network protocols and virtualizations. I would like to become the most acknowledged networker in the world.
 
-🖧 How about building our topology in GNS3?
+🗺 How about building our topology in GNS3?
 
 Feel free to contact me via:
 
