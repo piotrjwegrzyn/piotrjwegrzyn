@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🙇 My name is Piotr and I am 21. Currently I study ICT on AGH University of Science and Technology in Krakow.
+🙇 My name is Piotr and I am 22. Currently I study ICT on AGH University of Science and Technology in Krakow.
 
 💻 I am a passionate of **computer networks**, network protocols and virtualizations. I would like to become the most acknowledged networker in the world.
 
@@ -8,7 +8,7 @@
 
 Feel free to contact me via:
 
-📬 [Email↗️](piotrwegrzyn@protonmail.com) 
+📬 [Email↗️](mailto:piotr@wegrzyn.dev) 
 
 👔 [LinkedIn↗️](https://linkedin.com/in/piotrjwegrzyn/) 
 
