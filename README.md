@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🙇 My name is Piotr and I am 22. Currently I have graduated ICT on AGH University of Science and Technology in Krakow.
+🙇 My name is Piotr and I am 22. I have just graduated from ICT at the AGH University of Science and Technology in Kraków.
 
 💻 **Golang** is my favourite programming language. I am also a passionate of **computer networks**, containerization and virtualization.
 
