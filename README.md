@@ -2,7 +2,7 @@
 
 🙇 My name is Piotr and I am 22. Currently I have graduated ICT on AGH University of Science and Technology in Krakow.
 
-💻 Golan is my favourite programming language. I am also a passionate of **computer networks**, containerization and virtualization.
+💻 **Golang** is my favourite programming language. I am also a passionate of **computer networks**, containerization and virtualization.
 
 🤙 Feel free to contact me via:
 
