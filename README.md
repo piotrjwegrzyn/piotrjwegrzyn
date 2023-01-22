@@ -1,15 +1,13 @@
 ### Hi there 👋
 
-🙇 My name is Piotr and I am 22. Currently I study ICT on AGH University of Science and Technology in Krakow.
+🙇 My name is Piotr and I am 22. Currently I have graduated ICT on AGH University of Science and Technology in Krakow.
 
-💻 I am a passionate of **computer networks**, network protocols and virtualizations. I would like to become the most acknowledged networker in the world.
+💻 Golan is my favourite programming language. I am also a passionate of **computer networks**, containerization and virtualization.
 
-🗺 How about building our topology in GNS3?
+🤙 Feel free to contact me via:
 
-Feel free to contact me via:
+📬 [Email     ↗️](mailto:piotr@wegrzyn.dev) 
 
-📬 [Email↗️](mailto:piotr@wegrzyn.dev) 
+👔 [LinkedIn  ↗️](https://linkedin.com/in/piotrjwegrzyn/) 
 
-👔 [LinkedIn↗️](https://linkedin.com/in/piotrjwegrzyn/) 
-
-📰 [Telegram↗️](https://t.me/piotrjwegrzyn) 
+📰 [Telegram  ↗️](https://t.me/piotrjwegrzyn) 
