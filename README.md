@@ -1,10 +1,9 @@
 ### Hi all 👋
 
-🙇 My name is Piotr and I am wondering if it is possible to set up an interesting business with you.
+I'm open to interesting projects within the area of **cloud**, **blockchain** and computer networks.
 
-💻 I mostly write in **Go**. Also, I am kind of a nerd about **computer networks**, containerization and virtualization.
+I write code in **Go** and **Solidity**, also worked with **k8s**, **Linux** and **CI/CD**.
 
-🤙 Feel free to contact me via: 
-📬 [Email](mailto:piotr@wegrzyn.dev) /
-👔 [LinkedIn](https://linkedin.com/in/piotrjwegrzyn/) /
-📰 [Telegram](https://t.me/piotrjwegrzyn) 
+Feel free to contact me via: 
+[📬 Email](mailto:piotr@wegrzyn.dev) /
+[📰 Telegram](https://t.me/piotrjwegrzyn) 
